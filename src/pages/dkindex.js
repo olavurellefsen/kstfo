@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import Image from "../components/image"
-import Menu from "../components/menu"
+import Menu from "../components/dkmenu"
 import SEO from "../components/seo"
 
 export default () => {
@@ -14,10 +14,10 @@ export default () => {
       <Menu />
       <center style={{paddingTop: '40px'}}>
         <h1>Ásla Eirikstein Prior</h1>
-        <p>Sálarfrøðingur cand.psych.aut./Sjúkrarøktarfrøðingur</p>
+        <p>Psykolog cand.psych.aut./Sygeplejerske</p>
         <p>Jatnavegur 13</p>
         <p>FO-370 Miðvágur</p>
-        <p>Føroyar</p>
+        <p>Færøerne</p>
         <p>Tel.: +298 532336</p>
         <p>E-mail: <a href="mailto:prior@kallnet.fo">prior@kallnet.fo</a></p>
         <p>Skype: asla.eirikstein.prior</p>
